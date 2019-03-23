@@ -5,9 +5,9 @@ public class Hello {
 		
 System.out.println("hello git");
 System.out.println("nikita");
-System.out.println("nikita1223");
-System.out.println("change from old branch");
-System.out.println("old branch");
+//changes by feature2
+System.out.println("feature2 branch changes");
+System.out.println("I am learning conflicts");
 
 	}
 
